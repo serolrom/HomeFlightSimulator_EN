@@ -6,3 +6,5 @@ Record and project documentation for my home Flight Simulator
 --------------------
 
 ## Project log
+
+2020-02-01 - Project officially starts. I start taking first measurements, and this GitHub project.
